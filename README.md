@@ -1,2 +1,1 @@
-# zolidev
-Personal  Website
+Starting my personal website asap
